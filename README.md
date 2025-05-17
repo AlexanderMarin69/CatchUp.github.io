@@ -1,9 +1,9 @@
 # Child Safety and CSAE Policy
 
-**Effective Date:** [Insert Date]  
-**Applies To:** [App Name] by [Developer Name]
+**Effective Date:** 17/05/2025
+**Applies To:** CatchUp by Dublin One Technologies
 
-At [Developer Name], we are committed to providing a safe and respectful environment for all users of our application, **[App Name]**. We have zero tolerance for Child Sexual Abuse and Exploitation (CSAE) content or behavior on our platform. This page outlines our standards, policies, and actions related to child safety and CSAE.
+At Dublin One Technologies, we are committed to providing a safe and respectful environment for all users of our application, **CatchUp**. We have zero tolerance for Child Sexual Abuse and Exploitation (CSAE) content or behavior on our platform. This page outlines our standards, policies, and actions related to child safety and CSAE.
 
 ---
 
@@ -22,7 +22,7 @@ We strictly prohibit any content or activity that exploits or harms children. Th
 - **CSAE (Child Sexual Abuse and Exploitation):** Any content or behavior that sexually exploits or abuses a minor, including images, videos, text, or digital interactions.
 - **Minor:** Any individual under the age of 18, as defined by international standards and local laws.
 
-This policy applies to all features of **[App Name]**, including public profiles, messaging systems, media sharing, and any other community or interactive services.
+This policy applies to all features of **CatchUp**, including public profiles, messaging systems, media sharing, and any other community or interactive services.
 
 ---
 
@@ -61,8 +61,8 @@ We cooperate fully with legal authorities and organizations dedicated to child p
 ## Reference
 
 This Child Safety and CSAE Policy applies to:  
-**App Name:** [App Name]  
-**Developer Name:** [Developer Name]  
+**App Name:** CatchUp
+**Developer Name:** Dublin One Technologies 
 As listed on Google Play.
 
 ---
@@ -70,19 +70,10 @@ As listed on Google Play.
 ## Contact Us
 
 For questions or concerns regarding our Child Safety Policy, contact us at:  
-📧 [Insert your support or compliance email]
+📧 contact@dublinonetech.com
 
 ---
 
-## Quick Links
-
-- [Our Commitment to Child Safety](#our-commitment-to-child-safety)  
-- [Definitions and Scope](#definitions-and-scope)  
-- [Detection and Reporting](#detection-and-reporting)  
-- [User Reporting Tools](#user-reporting-tools)  
-- [Enforcement Actions](#enforcement-actions)  
-- [Reference](#reference)  
-- [Contact Us](#contact-us)
 
 ---
 
