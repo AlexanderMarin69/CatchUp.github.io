@@ -40,7 +40,7 @@ All suspected CSAE material or behavior will be reported to relevant authorities
 
 We empower our community to report any suspicious or harmful behavior directly through the app. Reports are prioritized and handled confidentially.
 
-If you encounter content or behavior that violates this policy, please report it immediately using our **[in-app report function]** or contact us at **[your support email]**.
+If you encounter content or behavior that violates this policy, please report it immediately using our **contact form in app settings, or report tool on comments and posts** or contact us at **contact@dublinonetech.com**.
 
 ---
 
