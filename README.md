@@ -30,9 +30,7 @@ This policy applies to all features of **CatchUp**, including public profiles, m
 
 We actively monitor our platform for CSAE through:
 
-- Automated content moderation tools  
-- Manual reviews  
-- User reports
+- Manual content moderation from user reports
 
 All suspected CSAE material or behavior will be reported to relevant authorities, such as the **National Center for Missing and Exploited Children (NCMEC)** or appropriate law enforcement, in accordance with applicable laws.
 
