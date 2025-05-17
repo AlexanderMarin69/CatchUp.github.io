@@ -70,10 +70,3 @@ As listed on Google Play.
 For questions or concerns regarding our Child Safety Policy, contact us at:  
 📧 contact@dublinonetech.com
 
----
-
-
----
-
-_This document is publicly accessible and fulfills the requirements set forth by Google Play regarding CSAE-related developer standards._
-
